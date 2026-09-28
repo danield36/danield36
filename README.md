@@ -1,63 +1,479 @@
+<a href="https://github.com/tomasreyes83"> 
+ <img align="center" src="./images/header.png" width="100%">    
+</a>
+<p align="center">
 
-Senior Full-Stack AI Engineer | AI Agents, Python, React & SaaS
+ 
+ <!--Header-->
 
 
-I build production-ready AI applications from the AI layer to the frontend, backend, database, cloud infrastructure, and deployment.
+<br/>
+<a href="https://github.com/tomasreyes83"> 
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<a href="https://github.com/tomasreyes83"> 
+ <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<a href="https://github.com/tomasreyes83"> 
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<p align="center">
 
-With 12+ years of software engineering experience, I can take ownership of an entire product instead of handling only one part. I work with founders, startups, and established teams to build AI products, integrate AI into existing platforms, automate complex workflows, and stabilize applications already in production.
+<!--Intro-->
 
-My experience covers high-growth sectors including B2B SaaS, healthcare technology, fintech, real estate and property technology, e-commerce, customer service automation, and enterprise operations.
+ 
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/tomasreyes83"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/tomasreyes83"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=tomasreyes83&style=for-the-badge&color=blue"></a>
 
-WHAT I BUILD
 
-• AI agents that search private data, process files, call APIs, use external tools, and complete multi-step workflows
 
-• RAG applications that answer questions using documents, databases, and company knowledge
 
-• Full-stack AI SaaS products with authentication, subscriptions, dashboards, permissions, and administrative tools
 
-• AI chatbots for customer support, lead qualification, internal operations, and knowledge retrieval
+> [!CAUTION]
+> - 🔖 Congratulations you found me
 
-• Document-processing systems for extraction, classification, summarization, and structured data generation
+<a href="https://github.com/tomasreyes83">   
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+</a>
 
-• Workflow automation connecting CRMs, email platforms, forms, databases, communication tools, and third-party services
+> [!NOTE]
+> - 🚙 I’m currently working on web development technologies like `React`, `Next`, `Node`, `Python`, etc.
 
-• AI features for existing web and mobile applications
+<!--
+> [!IMPORTANT]
+> - 📚 I’m currently learning **Docker, Jenkins and Grafana** 😅
 
-• Analytics dashboards, internal tools, customer portals, and enterprise platforms
 
-INDUSTRY EXPERIENCE
 
-For B2B SaaS, I build multi-tenant platforms with subscriptions, user roles, dashboards, onboarding, reporting, and administrative workflows.
+> [!WARNING]  
+> - 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
 
-For healthcare technology, I work on secure patient, provider, scheduling, documentation, and operational workflows where permissions, auditability, and reliable data handling are essential.
+-->
+> [!TIP]  
+> - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
+<!--
+> <p align="center">
+>  <a href="https://www.linkedin.com/in/tomasreyes83" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+>   <a href="http://tomasreyes83.byethost12.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+>   <a href="mailto:tomasreyes8324@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+>    <a href="https://api.whatsapp.com/send?phone=+212658930952&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a> -->
+>   <a href="https://t.me/tomasreyes83" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
+>   <a href="http://tomasreyes83.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Tomas_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+>   <a href="https://tomasreyes83.atabook.org/" target="_blank"><img src="https://img.shields.io/badge/-Message_Me!-000000?style=flat-square&labelColor=ffffff&logo=android&logoColor=black" /></a>
 
-For fintech, I build payment integrations, transaction workflows, subscription billing, reconciliation tools, financial dashboards, and systems that require strong validation and traceability.
+> </p>
+---
 
-For real estate and property technology, I develop lead-management systems, tenant and resident portals, property workflows, document automation, scheduling, and AI-assisted communication.
 
-For e-commerce, I build custom checkout flows, payment and inventory integrations, customer accounts, order workflows, subscriptions, and AI-powered product or support experiences.
 
-FULL-STACK AI DEVELOPMENT
+<!--Skills-->
 
-I work across the complete application stack:
+<a href="https://github.com/tomasreyes83">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+ 
 
-• AI: OpenAI, Anthropic Claude, Google Gemini, LangChain, RAG, vector databases, embeddings, tool calling, structured outputs, and context engineering
+<h3 align="center">
+ <a href="https://github.com/tomasreyes83">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/tomasreyes83">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
+ 【﻿Ｓｋｉｌｌｓ】  
+</h3>
 
-• Frontend: React, Next.js, TypeScript, JavaScript, Angular, HTML, CSS, and responsive UI development
+<a href="https://github.com/tomasreyes83">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
 
-• Backend: Python, FastAPI, Django, Node.js, Java, REST APIs, GraphQL, microservices, and background processing
+<br>
+<br> 
 
-• Data: PostgreSQL, MongoDB, DynamoDB, SQL, vector search, data pipelines, and database optimization
+<div align="center">
 
-• Cloud: AWS, Azure, Google Cloud Platform, Docker, serverless architecture, CI/CD, monitoring, and production support
 
-A working AI demo is only the beginning. Production systems also require reliable outputs, controlled tool execution, validation, security, observability, error handling, reasonable response times, and predictable operating costs.
+| **Programming_Languages**                           | **Frontend_Tools**                                      | **Backend_Tools**                                       | **Data_Related**                                      | **IDEs/Softwares**                                           | **Other_Tools**                                    |
+| --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
+| <p align="center">[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/tomasreyes83) </p>| <p align="center"> [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)](https://github.com/tomasreyes83) </p>| <p align="center">[![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)](https://github.com/tomasreyes83) | <p align="center">[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=ffffff)](https://github.com/tomasreyes83) |<p align="center"> [![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://github.com/tomasreyes83) |  <p align="center">[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/tomasreyes83)  |
+| <p align="center">[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/tomasreyes83) | <p align="center">[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)](https://github.com/tomasreyes83) | <p align="center">[![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://github.com/tomasreyes83) | <p align="center"> [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)](https://github.com/tomasreyes83) |<p align="center"> [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)](https://github.com/tomasreyes83) | <p align="center">[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://github.com/tomasreyes83)  |
+| <p align="center">[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/tomasreyes83) | <p align="center"> [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://github.com/tomasreyes83) | <p align="center">[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://github.com/tomasreyes83) |  <p align="center">[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=ffffff)](https://github.com/tomasreyes83) | <p align="center">[![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://github.com/tomasreyes83) |<p align="center"> [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/tomasreyes83)  |
+|<p align="center"> [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/tomasreyes83) | <p align="center">[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)](https://github.com/tomasreyes83) |<p align="center"> [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://github.com/tomasreyes83) |  <p align="center"> [![Sqllite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/tomasreyes83)                                                 |<p align="center"> [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/tomasreyes83) | <p align="center">[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)](https://github.com/tomasreyes83)  |
+| <p align="center">[![C](http://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=ffffff)](https://github.com/tomasreyes83) | <p align="center">[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://github.com/tomasreyes83) | <p align="center">[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)](https://github.com/tomasreyes83) |  <p align="center">[![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=Talend&logoColor=white)](https://github.com/tomasreyes83)  |<p align="center"> [![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://github.com/tomasreyes83) |<p align="center"> [![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://github.com/tomasreyes83)  |
+| <p align="center"> [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/tomasreyes83) |<p align="center">[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/tomasreyes83) |<p align="center"> [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)](https://github.com/tomasreyes83) | <p align="center"> [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/tomasreyes83) | <p align="center">[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/tomasreyes83)  | <p align="center">[![Postman](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)](https://github.com/tomasreyes83)                                                  |                                            |
+| <p align="center">[![C#](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/tomasreyes83) |<p align="center">[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/tomasreyes83) | <p align="center">[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/tomasreyes83) | <p align="center"> [![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)](https://github.com/tomasreyes83)   |  <p align="center"> [![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)](https://github.com/tomasreyes83)      |  <p align="center">[![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)](https://github.com/tomasreyes83)  |                                                 |
 
-When full autonomy creates unnecessary risk, I keep important business decisions in code and use AI only for interpretation, extraction, classification, or generation. I use structured outputs, approval steps, retries, audit logs, and deterministic validation to keep workflows dependable.
 
-I’m also comfortable entering an established codebase and taking ownership of unfinished features, technical debt, unreliable integrations, or production issues.
+</div>
 
-You will receive practical technical recommendations, maintainable code, clear communication, and documentation your team can continue using.
 
-Send me a short description of your product or workflow. I’ll respond with an initial technical direction, the main risks, and a realistic estimate.
+
+<a href="https://github.com/tomasreyes83">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+
+
+<!--STATS-->
+
+
+<h3 align="center">
+ <a href="https://github.com/tomasreyes83">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/tomasreyes83">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿Ｓｔａｔｓ】 
+
+</h3>
+ 
+<p align="center">
+ <br/>
+<a href="https://github.com/tomasreyes83"><img align="center" width ="%" src="https://img.shields.io/github/followers/tomasreyes83?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
+
+
+
+<p align="center"> 
+<a href="https://user-badge.committers.top/morocco/tomasreyes83"> 
+<img align="center" src="https://aktive.kerolloz.dev/morocco/tomasreyes83?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />  
+ 
+</a></p >
+
+<p align="center"> 
+
+<a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
+<!--=  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomasreyes83%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">     -->
+ <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">    
+</a></p >
+
+
+ <p align="center">
+<a href="https://github.com/tomasreyes83">
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasreyes83&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Tomas's github stats"/>
+
+</a>
+
+<br/>
+ 
+
+</p >
+
+
+ <!--More Stats-->
+
+ 
+
+<details open align="center">
+  <summary>📈 More Stats</summary>
+  <br>
+ <!--
+<p align="center">
+<a href="https://github.com/tomasreyes83"> 
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomasreyes83%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
+</a></p> -->
+
+<p align="center">
+<div align="center">
+ <a href="https://github.com/tomasreyes83"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomasreyes83&theme=algolia" width="100%" /> </br></br>
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomasreyes83&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomasreyes83&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomasreyes83&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+<a href="https://github.com/tomasreyes83"> 
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
+  </a> 
+  
+<!--  [![Tomas's github streak](https://github-readme-streak-stats.herokuapp.com/?user=tomasreyes83&theme=algolia&card_width=1000)](https://github.com/tomasreyes83) -->
+
+</br>
+<a href="https://github.com/tomasreyes83">
+<img align="center"  width="100%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_01102D/columns_8/maxflags_250/viewers_++Unique+Views+Per+Country+since+25+Mai+2025/labels_1/page_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tomasreyes83&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/tomasreyes83) </br>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=tomasreyes83&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/tomasreyes83) 
+</div>
+
+
+ <div align="center">
+</p >
+
+</details>
+
+<!--SNAKE-->
+
+
+<p align="center">
+ 
+<a href="https://github.com/tomasreyes83">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/tomasreyes83/tomasreyes83/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+</a>
+
+<a href="https://github.com/tomasreyes83">
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomasreyes83/tomasreyes83/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomasreyes83/tomasreyes83/pcman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tomasreyes83/tomasreyes83/pacman/pacman-contribution-graph.svg">
+</picture>
+ </a>
+
+</p>
+
+
+<!--More REPOSITORIES-->
+
+
+<details open align="center">
+  <summary>📁 More Repositories</summary>
+  <br>
+
+  <p align="center">
+
+ [![SpringBoot-Angular-TrainingCenter-Management Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=SpringBoot-Angular-TrainingCenter-Management\&theme=algolia)](https://github.com/tomasreyes83/SpringBoot-Angular-TrainingCenter-Management)
+[![SpringBoot_Football_Matches Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=SpringBoot_Football_Matches\&theme=algolia)](https://github.com/tomasreyes83/SpringBoot_Football_Matches)
+[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=Laravel_pharmacy_management\&theme=holi)](https://github.com/tomasreyes83/Laravel_pharmacy_management)
+[![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/tomasreyes83/Java-threads-udp-tcp-rmi-charts)
+[![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/tomasreyes83/mongdb_express_Movies_api_using_openai)
+[![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=Nodejs_playground\&theme=github_dark)](https://github.com/tomasreyes83/Nodejs_playground)
+[![tomasreyes83 Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=tomasreyes83\&theme=holi)](https://github.com/tomasreyes83/tomasreyes83)
+[![CV_BOUSSOU_Tomas Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=CV_BOUSSOU_Tomas\&theme=holi)](https://github.com/tomasreyes83/CV_BOUSSOU_Tomas)
+[![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=algolia)](https://github.com/tomasreyes83/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
+[![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=AJAX-XML\&theme=algolia)](https://github.com/tomasreyes83/AJAX-XML)
+
+   
+<!--
+[![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=tomasreyes83&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=tomasreyes83)](https://github.com/tomasreyes83?tab=repositories&q=&type=&language=&sort=stargazers)
+-->
+
+
+ ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@tomasreyes83&no-frame=true&layout=compact&&theme=algolia&link="https://www.github.com/tomasreyes83/") 
+
+
+
+
+[![Angular-login Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=Angular-login\&theme=algolia)](https://github.com/tomasreyes83/Angular-login)
+[![MERN_Stack_BlogProject Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=MERN_Stack_BlogProject\&theme=algolia)](https://github.com/tomasreyes83/MERN_Stack_BlogProject)
+[![MATLAB_Image_processing_app Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=MATLAB_Image_processing_app\&theme=holi)](https://github.com/tomasreyes83/MATLAB_Image_processing_app)
+[![Python-GUI Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=Python-GUI\&theme=holi)](https://github.com/tomasreyes83/Python-GUI)
+[![Python_People_tracking Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=Python_tracking\&theme=github_dark)](https://github.com/tomasreyes83/Python_tracking)
+[![Data_mining Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=R_Data_mining\&theme=github_dark)](https://github.com/tomasreyes83/R_Data_mining)
+[![C_System_Manipulation Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=C_System_Manipulation\&theme=holi)](https://github.com/tomasreyes83/C_System_Manipulation)
+[![Selenium-Web-Testing-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=Selenium-Web-Testing-Trello\&theme=holi)](https://github.com/tomasreyes83/Selenium-Web-Testing-Trello)  
+[![Android_Java_Projects Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=Android_Java_Projects\&theme=algolia)](https://github.com/tomasreyes83/Android_Java_Projects)
+[![React-native-projects Card](https://github-readme-stats.vercel.app/api/pin?username=tomasreyes83\&repo=React-native-projects\&theme=algolia)](https://github.com/tomasreyes83/React-native-projects)
+
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+<br/>
+
+
+
+ </p>
+</details>
+
+
+<!--SPOTIFY-->
+
+
+<a href="https://github.com/tomasreyes83">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
+
+<a href="https://github.com/tomasreyes83">
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" >
+ <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
+ </a>
+  <a href="https://github.com/tomasreyes83"> 
+ <img align="left" src="./images/good-times.svg" width="10%">   
+</a>
+<a href="https://github.com/tomasreyes83"> 
+ <img align="right" src="./images/good-times.svg" width="10%">   
+</a>
+ <h2 align="center" width="20" >
+   【H o b b i e s】
+</h2>
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<a href="https://github.com/tomasreyes83"> 
+<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
+<a href="https://github.com/tomasreyes83"> 
+ <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
+
+<!--spotify CARD-->
+
+<br>
+<h4 align="center">
+<!-- Currently Coding and Listening -->
+</h4>
+ <div align="center">
+
+
+
+<a href="https://github.com/tomasreyes83"> 
+  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
+</a>
+  
+ <!-- [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/tomasreyes83)--> 
+
+  
+
+<!--MORE SONGS-->
+
+<details open align="center">
+  <summary>💚 More</summary>
+  <br>
+
+
+
+  
+<!--QUOTE-->
+<br/><br/>
+  <div align="center">
+
+
+<a href="https://github.com/tomasreyes83"> 
+ <img align="center" src="./images/city.gif" width="60%" align="center">   
+</a>
+
+ 
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/tomasreyes83)
+
+
+
+<!-- views-->
+  <img align="left" width="0px" src="https://visitcount.itsvg.in/api?id=tomasreyes83&label=Profile%20Views&color=1&icon=3&pretty=true" />
+
+
+
+
+
+</div>
+<br/>
+
+
+
+<p align="center">
+⏳  𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
+<br/><br/>
+</p>
+
+<p align="center">
+<a href="https://github.com/tomasreyes83" title="Animated SVG clock"><img src="./images/clock.svg" alt="Clock" width="200px" height="200px" title="⌚ Front-End"></a><a href="https://github.com/tomasreyes83" title="Animated SVG clock"><img src="./images/xlzpyflf.png" alt="Clock" width="200px" height="200px" title="⚙️ Back-End"></a>
+ 
+</p>
+
+<br/>
+
+
+  
+<a href="https://github.com/tomasreyes83"> 
+ <img align="center" src="./images/citytheme.gif" width="60%" >   
+</a>
+
+
+</div>
+
+
+
+
+ </p>
+</details>
+
+<br/>
+
+<a href="https://github.com/tomasreyes83"> 
+ <img align="center" src="./images/skills.png" width="100%">   
+</a>
+
+</div>
+
+
+<a href="https://github.com/tomasreyes83">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
+
+ <!--MOON-->
+ 
+<a href="https://github.com/tomasreyes83"> 
+  <img width="30" align ="left"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+<a href="https://github.com/tomasreyes83"> 
+  <img width="30" align ="right"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+
+
+ <p align="center">
+ <a href="https://github.com/tomasreyes83"><img src="https://github.com/user-attachments/assets/bb0eb1a9-234a-43a7-9bd6-ebbade6712a3" align="center" /> </a>
+</p>
+
+<div align="center">
+ 
+ <details open disabled>
+
+<summary>👏 Thanks for the support </summary>
+
+## Stargazers
+
+
+<div align="center">
+
+[![Stargazers repo roster for @tomasreyes83/tomasreyes83](http://reporoster.com/stars/dark/tomasreyes83/tomasreyes83)](https://github.com/tomasreyes83/tomasreyes83/stargazers)
+
+
+
+</div>
+
+## Forkers
+
+<div align="center" >
+
+[![Forkers repo roster for @tomasreyes83/tomasreyes83](http://reporoster.com/forks/dark/tomasreyes83/tomasreyes83)](https://github.com/tomasreyes83/tomasreyes83/network/members)
+
+</div>
+
+## Contributors
+
+<a href = "https://github.com/tomasreyes83">
+  <img src = "https://contrib.rocks/image?repo=tomasreyes83/tomasreyes83"/>
+</a>
+
+
+<br/>
+</details>
+<br/> </p>
+
+
+<!-- THANKS-->
+
+
+<p align="center">  
+<a href="https://www.buymeacoffee.com/tomasreyes83"><img src="https://media.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+</p>
+<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=java" alt="Back to Top" align="right" /></a></p>
+<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=java" alt="Back to Top" align="left" /></a></p>
+
+
+ <p align="center">
+  <a href="https://github.com/tomasreyes83"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
+</p>
+
+
+
+
+
+ <!--
+
+[![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=tomasreyes83)
+
+[![GitHub forks](https://img.shields.io/github/forks/tomasreyes83/MATLAB_Image_processing_app.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/tomasreyes83/MATLAB_Image_processing_app/network/)
+[![GitHub watchers](https://img.shields.io/github/watchers/tomasreyes83/MATLAB_Image_processing_app.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/tomasreyes83/MATLAB_Image_processing_app/watchers/)
+ <img align="left" src="https://img.shields.io/github/downloads/tomasreyes83/MATLAB_Image_processing_app/total.svg" width="200">   
+-->
+
+
+
+<!--
+
+-->
